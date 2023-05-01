@@ -1,5 +1,6 @@
 
 **Data analysis using Python Pandas, Matplotlib, and Seaborn libraries:**
+
 Used Pandas for data cleaning, filtering, grouping, and merging. 
 Used Matplotlib and seaborn for creating visualizations, such as bar charts.
 
